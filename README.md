@@ -1,4 +1,4 @@
 # web-dev-demo
 This is my first repository.
 <br>
-Author - Sanket Halder
+Author - Sanket (TNU)
